@@ -4,9 +4,9 @@ import yaml
 import torch
 import torch.optim as optim
 import sys
-sys.path.append(os.path.join(os.path.dirname(__file__)), 'src')
-sys.path.append(os.path.join(os.path.dirname(__file__)), 'data')
-sys.path.append(os.path.join(os.path.dirname(__file__)), 'config')
+sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
+sys.path.append(os.path.join(os.path.dirname(__file__), 'data'))
+sys.path.append(os.path.join(os.path.dirname(__file__), 'config'))
 import torch.nn as nn
 from transformers import BertTokenizer
 from model import BertEncoder
