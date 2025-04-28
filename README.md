@@ -67,5 +67,3 @@ F1 Score : 0.6663
 - **Training Accuracy**
 ![image](https://github.com/user-attachments/assets/138a98b7-07e5-456c-a486-966fe4032991)
 
-- **Training F1 Score**
-![image](https://github.com/user-attachments/assets/b49830ba-3a3d-417a-a77e-494fcf4ac31d)
